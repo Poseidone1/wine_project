@@ -10,3 +10,7 @@ apikey.txt
 *.rar
 *.tar
 *.zip
+##########
+## Video & Images
+##########
+*.TIF
